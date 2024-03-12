@@ -1,7 +1,8 @@
 #include <unistd.h>
 
 int main(){
-	printf("aaa\n");
+	printf("aaaa1\n");
+	printf("aaaa2\n");
 	return 0;
 
 }
